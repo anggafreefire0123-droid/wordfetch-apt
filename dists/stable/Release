@@ -1,0 +1,37 @@
+Origin: Wordfetch
+Label: Wordfetch Repository
+Codename: stable
+Date: Sun, 01 Nov 2026 11:45:07 UTC
+Architectures: amd64 arm64 armhf
+Components: main
+Description: Wordfetch Linux Package Repository
+MD5Sum:
+ 08f39cdd2f5af9e413bd436099cdb1af 527 main/binary-amd64/Packages
+ ef6598a0d2aa8ab8003e66dc3c9e7da0 390 main/binary-amd64/Packages.gz
+ 6c5bfa3fbb3c82ef739af449a372a6fc 130 main/binary-amd64/Release
+ 08f39cdd2f5af9e413bd436099cdb1af 527 main/binary-arm64/Packages
+ ef6598a0d2aa8ab8003e66dc3c9e7da0 390 main/binary-arm64/Packages.gz
+ 555b86255a227a1c6e5dfa9308ee9c34 130 main/binary-arm64/Release
+ 08f39cdd2f5af9e413bd436099cdb1af 527 main/binary-armhf/Packages
+ ef6598a0d2aa8ab8003e66dc3c9e7da0 390 main/binary-armhf/Packages.gz
+ 3fd0ea689d93beb25b55029e9b89ba48 130 main/binary-armhf/Release
+SHA1:
+ de9f5670a852151e506e9b3cece0d9548daab38c 527 main/binary-amd64/Packages
+ 1cc89f02246a697bf716c8be266843f3f94071cb 390 main/binary-amd64/Packages.gz
+ d684451565582d611d555b82dd93e1d2abcb6f63 130 main/binary-amd64/Release
+ de9f5670a852151e506e9b3cece0d9548daab38c 527 main/binary-arm64/Packages
+ 1cc89f02246a697bf716c8be266843f3f94071cb 390 main/binary-arm64/Packages.gz
+ 722316545e93130b495c21d4e15abd16b54e47a8 130 main/binary-arm64/Release
+ de9f5670a852151e506e9b3cece0d9548daab38c 527 main/binary-armhf/Packages
+ 1cc89f02246a697bf716c8be266843f3f94071cb 390 main/binary-armhf/Packages.gz
+ 7fea27e515ce2dc0ea916a97ccdfc2142624e29e 130 main/binary-armhf/Release
+SHA256:
+ a9a24d1d6b1e957efa14ee640f468ae3acb88fbf5daa5121410b4e89fb62b4b0 527 main/binary-amd64/Packages
+ 78af5c85e4cdb966aa323e93ca3c0dcc402be246d119c078b2811528f065a8f9 390 main/binary-amd64/Packages.gz
+ 16a2b9f48fe09206d33abbc44e9d3384bc2726a8e03a69cbd6218a4b4f2c6695 130 main/binary-amd64/Release
+ a9a24d1d6b1e957efa14ee640f468ae3acb88fbf5daa5121410b4e89fb62b4b0 527 main/binary-arm64/Packages
+ 78af5c85e4cdb966aa323e93ca3c0dcc402be246d119c078b2811528f065a8f9 390 main/binary-arm64/Packages.gz
+ ea0402295004ff954f1b584264e0a4a047e851d1e921353b1c9da01b998f2eb4 130 main/binary-arm64/Release
+ a9a24d1d6b1e957efa14ee640f468ae3acb88fbf5daa5121410b4e89fb62b4b0 527 main/binary-armhf/Packages
+ 78af5c85e4cdb966aa323e93ca3c0dcc402be246d119c078b2811528f065a8f9 390 main/binary-armhf/Packages.gz
+ a3f1053b2ce5718e3de5498cc4dab4ebfda7404e99d98ca57c3195ac18e2fcb0 130 main/binary-armhf/Release

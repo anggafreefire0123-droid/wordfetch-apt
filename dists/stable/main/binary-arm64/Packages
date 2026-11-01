@@ -1,0 +1,16 @@
+Package: wordfetch
+Version: 1.26.1
+Architecture: all
+Maintainer: Angga <anggafreefire0123-droid>
+Priority: optional
+Section: utils
+Filename: pool/main/w/wordfetch/wordfetch_1.26.1_all.deb
+Size: 1444
+SHA256: 84d96029c6b07f6eb989425a12e7c755340cecc2fa997286e5e63d53651426f9
+SHA1: 45352cb21bbf6b385012b803a64092adc084456b
+MD5sum: e9e908b59d3270f805bde8c3335d2cab
+Description: Universal Linux system information tool
+ Wordfetch displays Linux distribution,
+ kernel, architecture, desktop environment,
+ CPU and memory information.
+

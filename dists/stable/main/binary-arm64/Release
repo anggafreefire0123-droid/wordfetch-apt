@@ -1,0 +1,5 @@
+Component: main
+Origin: Wordfetch
+Label: Wordfetch Repository
+Architecture: arm64
+Description: Wordfetch Linux Package Repository
